@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27487711-D1D7-4CBF-80DD-98D3AD8B9BC6}|MathExpressions.Core\\MathExpressions.Core.csproj|c:\\users\\asus\\onedrive\\desktop\\proiect oop-alexandru salaghe\\mathexpressionssolution\\mathexpressions.core\\sqrtfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27487711-D1D7-4CBF-80DD-98D3AD8B9BC6}|MathExpressions.Core\\MathExpressions.Core.csproj|solutionrelative:mathexpressions.core\\sqrtfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27487711-D1D7-4CBF-80DD-98D3AD8B9BC6}|MathExpressions.Core\\MathExpressions.Core.csproj|c:\\users\\asus\\onedrive\\desktop\\proiect oop-alexandru salaghe\\mathexpressionssolution\\mathexpressions.core\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27487711-D1D7-4CBF-80DD-98D3AD8B9BC6}|MathExpressions.Core\\MathExpressions.Core.csproj|solutionrelative:mathexpressions.core\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27487711-D1D7-4CBF-80DD-98D3AD8B9BC6}|MathExpressions.Core\\MathExpressions.Core.csproj|c:\\users\\asus\\onedrive\\desktop\\proiect oop-alexandru salaghe\\mathexpressionssolution\\mathexpressions.core\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27487711-D1D7-4CBF-80DD-98D3AD8B9BC6}|MathExpressions.Core\\MathExpressions.Core.csproj|solutionrelative:mathexpressions.core\\lexer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27487711-D1D7-4CBF-80DD-98D3AD8B9BC6}|MathExpressions.Core\\MathExpressions.Core.csproj|c:\\users\\asus\\onedrive\\desktop\\proiect oop-alexandru salaghe\\mathexpressionssolution\\mathexpressions.core\\imathfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27487711-D1D7-4CBF-80DD-98D3AD8B9BC6}|MathExpressions.Core\\MathExpressions.Core.csproj|solutionrelative:mathexpressions.core\\imathfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27487711-D1D7-4CBF-80DD-98D3AD8B9BC6}|MathExpressions.Core\\MathExpressions.Core.csproj|C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\mathexpressions.core\\historyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27487711-D1D7-4CBF-80DD-98D3AD8B9BC6}|MathExpressions.Core\\MathExpressions.Core.csproj|solutionrelative:mathexpressions.core\\historyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27487711-D1D7-4CBF-80DD-98D3AD8B9BC6}|MathExpressions.Core\\MathExpressions.Core.csproj|C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\mathexpressions.core\\expressionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27487711-D1D7-4CBF-80DD-98D3AD8B9BC6}|MathExpressions.Core\\MathExpressions.Core.csproj|solutionrelative:mathexpressions.core\\expressionnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27487711-D1D7-4CBF-80DD-98D3AD8B9BC6}|MathExpressions.Core\\MathExpressions.Core.csproj|C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\mathexpressions.core\\binaryoperatortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27487711-D1D7-4CBF-80DD-98D3AD8B9BC6}|MathExpressions.Core\\MathExpressions.Core.csproj|solutionrelative:mathexpressions.core\\binaryoperatortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6953BA4E-4D4A-45A4-8A7E-438613F3FD7D}|MathExpressions.App\\MathExpressions.App.csproj|C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\mathexpressions.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6953BA4E-4D4A-45A4-8A7E-438613F3FD7D}|MathExpressions.App\\MathExpressions.App.csproj|solutionrelative:mathexpressions.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6953BA4E-4D4A-45A4-8A7E-438613F3FD7D}|MathExpressions.App\\MathExpressions.App.csproj|C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\mathexpressions.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6953BA4E-4D4A-45A4-8A7E-438613F3FD7D}|MathExpressions.App\\MathExpressions.App.csproj|solutionrelative:mathexpressions.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27487711-D1D7-4CBF-80DD-98D3AD8B9BC6}|MathExpressions.Core\\MathExpressions.Core.csproj|C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\mathexpressions.core\\expressionengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27487711-D1D7-4CBF-80DD-98D3AD8B9BC6}|MathExpressions.Core\\MathExpressions.Core.csproj|solutionrelative:mathexpressions.core\\expressionengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqrtFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.Core\\SqrtFunction.cs",
+              "RelativeDocumentMoniker": "MathExpressions.Core\\SqrtFunction.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.Core\\SqrtFunction.cs",
+              "RelativeToolTip": "MathExpressions.Core\\SqrtFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:00:05.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.Core\\Token.cs",
+              "RelativeDocumentMoniker": "MathExpressions.Core\\Token.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.Core\\Token.cs",
+              "RelativeToolTip": "MathExpressions.Core\\Token.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:00:02.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lexer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.Core\\Lexer.cs",
+              "RelativeDocumentMoniker": "MathExpressions.Core\\Lexer.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.Core\\Lexer.cs",
+              "RelativeToolTip": "MathExpressions.Core\\Lexer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T08:59:59.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMathFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.Core\\IMathFunction.cs",
+              "RelativeDocumentMoniker": "MathExpressions.Core\\IMathFunction.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.Core\\IMathFunction.cs",
+              "RelativeToolTip": "MathExpressions.Core\\IMathFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:51:06.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HistoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.Core\\HistoryItem.cs",
+              "RelativeDocumentMoniker": "MathExpressions.Core\\HistoryItem.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.Core\\HistoryItem.cs",
+              "RelativeToolTip": "MathExpressions.Core\\HistoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:51:05.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpressionNode.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.Core\\ExpressionNode.cs",
+              "RelativeDocumentMoniker": "MathExpressions.Core\\ExpressionNode.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.Core\\ExpressionNode.cs",
+              "RelativeToolTip": "MathExpressions.Core\\ExpressionNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:51:04.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BinaryOperatorType.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.Core\\BinaryOperatorType.cs",
+              "RelativeDocumentMoniker": "MathExpressions.Core\\BinaryOperatorType.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.Core\\BinaryOperatorType.cs",
+              "RelativeToolTip": "MathExpressions.Core\\BinaryOperatorType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:51:03.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.App\\Form1.cs",
+              "RelativeDocumentMoniker": "MathExpressions.App\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.App\\Form1.cs",
+              "RelativeToolTip": "MathExpressions.App\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:50:53.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.App\\Form1.cs",
+              "RelativeDocumentMoniker": "MathExpressions.App\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.App\\Form1.cs [Design]",
+              "RelativeToolTip": "MathExpressions.App\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T12:50:49.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExpressionEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.Core\\ExpressionEngine.cs",
+              "RelativeDocumentMoniker": "MathExpressions.Core\\ExpressionEngine.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\PROIECT OOP-ALEXANDRU SALAGHE\\MathExpressionsSolution\\MathExpressions.Core\\ExpressionEngine.cs",
+              "RelativeToolTip": "MathExpressions.Core\\ExpressionEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T16:45:37.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
