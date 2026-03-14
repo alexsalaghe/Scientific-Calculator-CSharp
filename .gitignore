@@ -1,0 +1,15 @@
+# Fișiere generate de compilare (Binary)
+[Bb]in/
+[Oo]bj/
+
+# Fișiere de setări personale ale Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Fișiere temporare și cache-uri
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
