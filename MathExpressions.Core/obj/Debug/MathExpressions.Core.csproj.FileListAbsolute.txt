@@ -1,6 +1,0 @@
-C:\Users\Asus\OneDrive\Desktop\PROIECT OOP-ALEXANDRU SALAGHE\MathExpressionsSolution\MathExpressions.Core\bin\Debug\MathExpressions.Core.dll
-C:\Users\Asus\OneDrive\Desktop\PROIECT OOP-ALEXANDRU SALAGHE\MathExpressionsSolution\MathExpressions.Core\bin\Debug\MathExpressions.Core.pdb
-C:\Users\Asus\OneDrive\Desktop\PROIECT OOP-ALEXANDRU SALAGHE\MathExpressionsSolution\MathExpressions.Core\obj\Debug\MathExpressions.Core.csproj.AssemblyReference.cache
-C:\Users\Asus\OneDrive\Desktop\PROIECT OOP-ALEXANDRU SALAGHE\MathExpressionsSolution\MathExpressions.Core\obj\Debug\MathExpressions.Core.csproj.CoreCompileInputs.cache
-C:\Users\Asus\OneDrive\Desktop\PROIECT OOP-ALEXANDRU SALAGHE\MathExpressionsSolution\MathExpressions.Core\obj\Debug\MathExpressions.Core.dll
-C:\Users\Asus\OneDrive\Desktop\PROIECT OOP-ALEXANDRU SALAGHE\MathExpressionsSolution\MathExpressions.Core\obj\Debug\MathExpressions.Core.pdb
